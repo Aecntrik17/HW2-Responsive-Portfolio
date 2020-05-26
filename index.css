@@ -1,0 +1,18 @@
+body {
+    background-color: ghostwhite;
+}
+
+/* setting navbar hamburger to the right */
+.collapse.navbar-collapse {
+    text-align: right;
+}
+
+.navbar.navbar-expand-lg.navbar-drk.bg-drk {
+    border-bottom: solid;
+    border-color: grey;
+}
+
+.nav-link {
+    color: darkgray;
+}
+
