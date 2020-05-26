@@ -72,3 +72,14 @@ h5 {
         width: auto;
     }
 }
+
+@media screen and (max-width: 1024px) and (min-width: 769px){
+    .container.col-sm-6 {
+        height: auto;
+    }
+
+    h5 {
+        text-emphasis: bold;
+        text-align: center;
+           font-size: 1rem;
+    }
