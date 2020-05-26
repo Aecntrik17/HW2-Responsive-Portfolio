@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(226, 221, 221);
+}
+
+.collapse.navbar-collapse {
+    text-align: right;
+}
