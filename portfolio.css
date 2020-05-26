@@ -5,3 +5,18 @@ body {
 .collapse.navbar-collapse {
     text-align: right;
 }
+
+.container.col-sm-6 {
+    background-color: white;
+    border-style: solid;
+    border-color: grey;
+    height: 650px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 65%;
+    text-align: justify;
+}
+
+.col-sm-auto.col-md-6 {
+    margin-top: 10px;
+}
