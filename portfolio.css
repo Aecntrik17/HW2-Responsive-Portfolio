@@ -20,3 +20,18 @@ body {
 .col-sm-auto.col-md-6 {
     margin-top: 10px;
 }
+
+h1 {
+    border-bottom: solid;
+    border-color: grey;
+    color: turquoise;
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h5 {
+    text-emphasis: bold;
+    text-align: center;
+       font-size: 12px;
+
+}
