@@ -48,3 +48,14 @@ h5 {
 .card-title.col-sm-12 {
     background-color: oldlace;
 }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
