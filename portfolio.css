@@ -1,4 +1,33 @@
-body {
+.container-fluid {
+  background-color: white;
+  border-style: solid;
+  border-color: grey;
+  height: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 65%;
+  text-align: justify;
+}
+
+.image {
+  width: 150px;
+  height: 150px;
+}
+
+.col-xs-6 {
+  margin: 10px;
+  border-style: ridge;
+  border-color: aqua;
+}
+.portfolio-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 155px;
+}
+
+/* body {
     background-color: rgb(226, 221, 221);
 }
 
@@ -89,4 +118,4 @@ h5 {
         .container.col-sm-6 {
             height: auto;
         }
-}
+} */
